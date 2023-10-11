@@ -1,0 +1,131 @@
+
+
+
+h1 {
+    color: red;
+    background-color: black;
+    padding: -10%;
+    font-size: 5em;
+}
+
+
+body {
+    background-color: black;
+}
+
+
+
+
+div {
+    margin-bottom: 0%;
+    background-color:rgb(1, 3, 4);
+    font-size: 2em;
+    padding-left: 0%;
+    color: rgb(179, 18, 18);
+    margin-bottom: -15%;
+}
+
+
+#serious {
+    font-size: 1.2em;
+    
+}
+
+
+a {
+    text-decoration: none;
+    line-height: 0%;
+    text-transform: uppercase;
+    word-spacing: 0%;
+    text-decoration: solid;
+    color: rgb(254, 254, 254);
+    
+}
+
+
+p {
+    color:rgb(255, 255, 255);
+    background-color: rgb(28, 97, 149);
+    font-size: 1.5em;
+}
+
+
+
+
+nav ul {
+    list-style-type:none;
+    margin-top: -9px;
+    margin-bottom:9px ;
+    padding: -0%;
+    overflow: hidden;
+    background-color:rgb(18, 84, 161);
+    font: size 3.3em;
+    border:rgb(255, 255, 255) solid 5px;
+    text-align: left;
+    height: 100px;
+    width: 1200px;
+    padding-top:-31%;
+    padding-bottom: -21px;
+    
+    
+}
+
+form {
+
+
+    background-color:rgb(52, 120, 230);
+    margin-top: 20%;
+    border: 10cm;
+   
+}
+
+
+nav ul li {
+    display: inline-block;
+    line-height: 10px;
+    margin:5px;
+    color: rgb(179, 158, 158);
+    text-decoration: none;
+    font-size: 200%;
+    padding: 2%;
+    margin: 2ch;
+    border-color: black;
+    border: 5;
+}
+
+
+#list1 {
+    color: blue;
+    
+}
+
+#list2 {
+    color: aliceblue;
+    
+}
+
+#list3 {
+    color: aliceblue;
+    
+}
+
+#list4 {
+    color: aliceblue;
+    
+}
+
+
+#whitebac {
+    background-color: aliceblue;
+    font-size: 1.4em;
+    background-color: rgb(85, 198, 243);
+    color: rgb(10, 88, 32);
+}
+
+
+
+
+
+
+
+
